@@ -1,0 +1,1 @@
+Suma elementelor de deasupra diagonalei principale ?i produsul elementelor de sub diagonala principala.
