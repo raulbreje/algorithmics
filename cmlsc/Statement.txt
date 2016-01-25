@@ -1,0 +1,17 @@
+Cel mai lung sub?ir comun
+
+Statement
+Fie V un vector cu N elemente. Se nume?te sub?ir de lungime K al vectorului V un nou vector V' = (Vi1, Vi2, ... ViK), cu i1 < i2 < ... < iK. De exemplu, vectorul V = (5 7 8 9 1 6) con?ine ca sub?ir ?irurile (5 8 6) sau (7 8 1), dar nu con?ine sub?irul (1 5). Se dau doi vectori A si B cu elemente numere naturale nenule.
+
+Requirements
+Sa se determine sub?irul de lungime maxima care apare atât în A cât ?i în B.
+
+Comenteaza daca nu îi clar ceva.
+
+Example
+5 3  (nr elementelor din A, nr elementelor din B)
+1 7 3 9 8
+7 5 8
+.............
+2
+7 8
